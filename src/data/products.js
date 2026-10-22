@@ -11,7 +11,7 @@ export const products = [
   { id: 6, name: "Seashell Charm Bracelet", category: "Bracelets", price: 800, image: img("charm-bracelet"), desc: "Gold chain bracelet with shells, a turtle and a starfish." },
   { id: 7, name: "Flower Cuff Bracelet", category: "Bracelets", price: 800, image: img("flower-cuff"), desc: "An open cuff made of engraved gold flowers." },
   { id: 5, name: "Chunky Bangle Set", category: "Bracelets", price: 1900, image: img("bangle-set"), desc: "Four bold bangles in gold, marble and amber tones." },
-  { id: 12, name: "Stackable Ring Set", category: "Rings", price: 6000, image: img("ring-set"), desc: "Six adjustable rings in different textures, made to be stacked." },
+  { id: 12, name: "Stackable Ring Set", category: "Rings", price: 600, image: img("ring-set"), desc: "Six adjustable rings in different textures, made to be stacked." },
   { id: 10, name: "Oval Bangle Watch", category: "Watches", price: 3000, image: img("oval-bangle-watch"), desc: "An oval dial with Roman numerals on a gold bangle." },
   { id: 14, name: "Leather Strap Watch Duo", category: "Watches", price: 1800, image: img("leather-watches"), desc: "Two oval watches, one with a black strap and one with a brown strap." },
   { id: 15, name: "Gold Chain Watch", category: "Watches", price: 1800, image: img("chain-watch"), desc: "A slim oval watch on a gold link bracelet." },
